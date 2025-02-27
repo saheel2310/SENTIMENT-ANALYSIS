@@ -1,4 +1,4 @@
-# SENTIMENT ANAKYSIS
+# SENTIMENT ANALYSIS
 
 This project performs sentiment analysis on textual data (tweets) using a pre-trained transformer model fine-tuned on a custom dataset. It utilizes the Hugging Face `transformers` library for loading and fine-tuning the model, and PyTorch for tensor operations.
 
